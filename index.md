@@ -7,3 +7,4 @@ Three operations using BizTalk360
 * Analytics
 
 # Hosted using GitHub
+# Tested by vishnu
