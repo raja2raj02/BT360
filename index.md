@@ -1,5 +1,9 @@
-#Hello world
+# Hello world
 
-This is the sample page for the documnet
+Three operations using BizTalk360
 
-#Hosted using GitHub
+* Operations
+* Monitoring
+* Analytics
+
+# Hosted using GitHub
