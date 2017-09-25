@@ -1,6 +1,9 @@
-# Hello world
+# Welcome to BizTalk360
 
-# This is the sample page for the documnet
+Three operations 
+* Operations
+* Monitoring
+* Analytics
 
 # Hosted using GitHub
 
