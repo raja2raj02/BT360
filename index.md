@@ -1,5 +1,6 @@
-Hello world
+# Hello world
 
-This is the sample page for the documnet
+# This is the sample page for the documnet
 
-Hosted using GitHub
+# Hosted using GitHub
+
